@@ -1,8 +1,8 @@
 # Constants
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-MY_PHONE = "Your Phone Number" # must be start +/country code/
-TWILIO_PHONE = "Your twilio number"
+MY_PHONE = "Your Phone Number" # must be start +/country code/ +1XXXXXXXXX
+TWILIO_PHONE = "Your twilio number" # +1XXXXXXXXXXX
 
 ALPHA_VANTAGE_API_KEY = "your api key"
 NEWS_ORG_API_KEY = "your api key"
